@@ -26,15 +26,16 @@ To understand how phishing campaigns are created, deployed, and analyzed in orde
 - Cybersecurity awareness training concepts
 
 ## Screenshots
-![GoPhish Dashboard](screenshots/Gophish Dashboard.png)
 
-![GoPhish Email Templates](screenshots/Gophish Email Templates.png)
+![Dashboard](screenshots/gophish-dashboard.png)
 
-![GoPhish Statistics](screenshots/Gophish Statistics.png)
+![Email Templates](screenshots/gophish-email-templates.png)
 
-![GoPhish Terminal](screenshots/Gophish Terminal.png)
+![Statistics](screenshots/gophish-statistics.png)
 
-![GoPhish Landing Page](screenshots/Gophish landing page.png)
+![Terminal](screenshots/gophish-terminal.png)
+
+![Landing Page](screenshots/gophish-landing-page.png)
 
 ## Disclaimer
 This project was conducted strictly for educational purposes in an authorized lab environment. No real users or systems were targeted.
