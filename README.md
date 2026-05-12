@@ -29,7 +29,7 @@ To understand how phishing campaigns are created, deployed, and analyzed in orde
 
 ![Dashboard](screenshots/gophish-dashboard.png)
 
-![Email Templates](screenshots/gophish-email-templates.png)
+![Email Templates](screenshots/gophish-email-template.png)
 
 ![Statistics](screenshots/gophish-statistics.png)
 
